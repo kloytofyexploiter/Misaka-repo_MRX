@@ -19,6 +19,39 @@
     },
     "RepositoryContents": [
         {
+            "Name": "Debug Preferences",
+            "Description": "Enable different hidden debugging settings after applying reboot then you can open settings and scroll down and you should see them",
+            "Author": {
+                "Label": "MR X",
+                "Links": [
+                    {
+                        "Label": "Mattias/MR X",
+                        "Link": "https://twitter.com/mattiaskl"
+                    }
+                ]
+            },
+            "Icon": "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/v932-ning-56_1-klbunxhf.jpg",
+            "HeaderImage": "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/845d4970f8a90914e584ce88466616f1.jpeg",
+            "Category": "Settings"
+            "Caption": "logging settings",
+            "Screenshot": [
+                "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/IMG_0316.PNG",
+                "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/IMG_0317.PNG",
+                "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/IMG_0318.PNG",
+                "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/IMG_0319.PNG",
+                "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/IMG_0320.PNG",
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/com.MRX.Debug settings.misaka",
+                    "Description": "Credit goes to iTechExpert21 on twitter for the tweak idea"
+                }
+            ],
+            "PackageID": "com.MRX.Debug.Settings"
+        },
+        {
+            
             "Name": "Backboard Touch",
             "Description": "Shows info about springboard and where on the springboard based on where you touch after applying just reboot and it'll work",
             "Category": "Springboard",
