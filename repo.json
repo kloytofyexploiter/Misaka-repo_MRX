@@ -1,0 +1,46 @@
+{
+    "RepositoryName": "tdquang",
+    "RepositoryDescription": "266x153",
+    "RepositoryAuthor": "tdquang",
+    "RepositoryIcon": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/repo-image.jpg",
+    "RepositoryWebsite": "https://github.com/tdquang266/MDC",
+    "Default": {
+        "HeaderImage": "https://raw.githubusercontent.com/tdquang266/MDC/main/Assets/banner.jpg",
+        "Author": {
+            "Label": "tdquang",
+            "Links": [
+                {
+                    "Label": "Twitter",
+                    "Link": "https://twitter.com/tdquangg"
+                }
+            ]
+        },
+        "ViewCount": true
+    },
+    "RepositoryContents": [
+        {
+            "Name": "Backboard Touch",
+            "Description": "Shows info about springboard and where on the springboard based on where you touch after applying just reboot and it'll work",
+            "Category": "SpringBoard",
+            "Caption": "you'll love this",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
+            "Icon": "",
+            "Screenshot": [
+                "screenshot link here",
+                "screenshot link here",
+                "screenshot link here",
+                "screenshot link here"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/com.MRX.DebugTouch.misaka",
+                    "Description": "First tweak"
+                
+                }
+            ],
+            
+        },
+    ]
+}
