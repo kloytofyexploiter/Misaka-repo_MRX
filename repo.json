@@ -22,7 +22,7 @@
             "Name": "Backboard Touch",
             "Description": "Shows info about springboard and where on the springboard based on where you touch after applying just reboot and it'll work",
             "Category": "Springboard",
-            "Caption": "Credits to SeanMC, And Unknown_tags for the method",
+            "Caption": "Credits to SeanMC And Unknown_tags for the method",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Icon": "",
