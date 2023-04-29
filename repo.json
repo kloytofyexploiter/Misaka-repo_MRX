@@ -38,10 +38,7 @@
                     "Description": "First tweak"
                 }
             ],
-             "PackageID": "com.MRX.DebugTouch"
-                }
-            ],
-            
-        },
+            "PackageID": "com.MRX.DebugTouch"
+        }
     ]
 }
