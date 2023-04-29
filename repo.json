@@ -21,7 +21,7 @@
         {
             "Name": "Backboard Touch",
             "Description": "Shows info about springboard and where on the springboard based on where you touch after applying just reboot and it'll work",
-            "Category": "SpringBoard",
+            "Category": "Springboard",
             "Caption": "you'll love this",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
