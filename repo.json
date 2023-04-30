@@ -43,8 +43,7 @@
             
             },
         {
-            "Icon": "https://raw.githubusercontent.com/34306/iPA/main/img/IMG_1697.JPG",
-            "HeaderImage": "https://raw.githubusercontent.com/34306/iPA/main/img/suzume.gif",
+            
             "Name": "Debugging Settings",
             "Description": "You need to apply the tweak then reboot and reopen settings and the debug settings will be enabled"
             "MinIOSVersion": "15.0",
