@@ -44,7 +44,7 @@
             },
         {
             "Name": "Debugging Settings",
-            "Description": ""
+            "Description": "You need to apply the tweak then reboot and reopen settings and the debug settings will be enabled"
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
             "Author": {
@@ -57,7 +57,7 @@
                 ]
             },
             "Category": "Settings",
-            "Caption": "You need to apply the tweak then reboot and reopen settings and the debug settings will be enabled ",
+            "Caption": "created by MR X ",
             "Screenshot": [
                 "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/IMG_0316.PNG",
                 "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/IMG_0317.PNG",
