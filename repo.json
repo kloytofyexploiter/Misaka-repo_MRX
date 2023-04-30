@@ -44,7 +44,7 @@
             },
         {
             
-            "Name": "Debugging Preferences",
+            "Name": "com.MRX.Debug settings",
             "Description": "You need to apply the tweak then reboot and reopen settings and the debug settings will be enabled",
             "MinIOSVersion": "15.0",
             "MaxIOSVersion": "16.1.2",
