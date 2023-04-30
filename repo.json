@@ -58,6 +58,8 @@
             "HeaderImage": "https://raw.githubusercontent.com/kloytofyexploiter/Misaka-repo_MRX/main/845d4970f8a90914e584ce88466616f1.jpeg",
             "Category": "Settings",
             "Caption": "Settings debug preferences for 15.0-16.1.2",
+            "MinIOSVersion": "15.0",
+            "MaxIOSVersion": "16.1.2",
             "Screenshot": [
                 "https://raw.githubusercontent.com/kloytofyexploiter/Misaka-repo_MRX/main/IMG_0316.PNG", "https://raw.githubusercontent.com/kloytofyexploiter/Misaka-repo_MRX/main/IMG_0320.PNG"
             ],
