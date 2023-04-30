@@ -34,7 +34,7 @@
             "Releases": [
                 {
                     "Version": "1.0",
-                    "Package": "https://github.com/kloytofyexploiter/Misaka-repo_MRX/raw/main/com.MRX.DebugTouch.misaka",
+                    "Package": "https://github.com/kloytofyexploiter/Misaka-repo_MRX/releases/download/misaka/com.MRX.DebugTouch.misaka",
                     "Description": "First tweak"
                 
                 }
