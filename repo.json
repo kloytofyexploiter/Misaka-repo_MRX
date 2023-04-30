@@ -46,7 +46,7 @@
             "Name": "Debugging Settings",
             "Description": "You need to apply the tweak then reboot and reopen settings and the debug settings will be enabled"
             "MinIOSVersion": "15.0",
-            "MaxIOSVersion": "16.1.1",
+            "MaxIOSVersion": "16.1.2",
             "Author": {
                 "Label": "MR X",
                 "Links": [
