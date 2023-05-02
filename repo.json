@@ -43,6 +43,34 @@
             
             },
         {
+            "Name": "DevSeed",
+            "Description": "Enables developer beta without Developer account or profile",
+            "Author": {
+                "Label": "MR X",
+                "Links": [
+                    {
+                        "Label": "MR X/Mattias",
+                        "Link": "https://twitter.com/mattiaskl"
+                    }
+                ]
+            },
+            "Icon": "",
+            "HeaderImage": "https://raw.githubusercontent.com/kloytofyexploiter/Misaka-repo_MRX/main/845d4970f8a90914e584ce88466616f1.jpeg",
+            "Category": "Settings"
+            "Caption": "Thanks to iTechExpert21 for this",
+            "Screenshot": [
+                "https://raw.githubusercontent.com/kloytofyexploiter/Misaka-repo_MRX/main/IMG_0409.PNG"
+            ],
+            "Releases": [
+                {
+                    "Version": "1.0",
+                    "Package": "https://github.com/kloytofyexploiter/Misaka-repo_MRX/releases/download/misaka/DevSeed.misaka",
+                    "Description": "Enables developer beta without Developer account or profile also Thanks to iTechExpert21 for this"
+                }
+            ],
+            "PackageID": "com.MRX.DevSeed"
+        },
+        {
             "Name": "Debug.Preferences",
             "Description": "dump logs and enable stuff",
             "Author": {
